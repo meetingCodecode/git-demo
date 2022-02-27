@@ -2,6 +2,5 @@ hello Asen! hello git! 22222
 hello Asen! hello git! 33333
 hello Asen! hello git!
 hello Asen! hello git!
-hello Asen! hello git!
 hello Asen! hello git! master test
-hello Asen! hello git!
+hello Asen! hello git! hot-fix test

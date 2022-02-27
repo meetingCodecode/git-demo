@@ -3,3 +3,6 @@ hello Asen! hello git! 33333
 hello Asen! hello git!
 hello Asen! hello git!
 hello Asen! hello git!
+hello Asen! hello git!
+hello Asen! hello git!
+hello Asen! hello git! hot-fix test
